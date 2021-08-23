@@ -45,7 +45,7 @@ class Y {
     String c;
 }
 
-public class YourTestCase {
+public class HV1540TestCase {
 
     private static Validator validator;
 
